@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Reading list
 BEGIN:VEVENT
 UID:jonathan-hui-topic-01@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261103T000000Z
-DTEND:20261103T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261102T150000Z
+DTEND:20261102T170000Z
 SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning (1/2)
 DESCRIPTION:Mathematics and statistics. Read the introduction and foundati
  ons\; continue into part II.\nEstimated topic total: 3 hours\; session 1 
@@ -19,10 +19,10 @@ URL:https://jonathan-hui.medium.com/statistics-i-in-data-science-machine-l
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-01-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261104T000000Z
-DTEND:20261104T010000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261103T150000Z
+DTEND:20261103T160000Z
 SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning (2/2)
 DESCRIPTION:Mathematics and statistics. Read the introduction and foundati
  ons\; continue into part II.\nEstimated topic total: 3 hours\; session 2 
@@ -33,10 +33,10 @@ URL:https://jonathan-hui.medium.com/statistics-i-in-data-science-machine-l
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261104T010000Z
-DTEND:20261104T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261103T160000Z
+DTEND:20261103T170000Z
 SUMMARY:Reading: Machine Learning — Algorithms (1/3)
 DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
   full machine learning series use the author index.\nEstimated topic tota
@@ -47,10 +47,10 @@ URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-02-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261105T000000Z
-DTEND:20261105T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261104T150000Z
+DTEND:20261104T170000Z
 SUMMARY:Reading: Machine Learning — Algorithms (2/3)
 DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
   full machine learning series use the author index.\nEstimated topic tota
@@ -61,10 +61,10 @@ URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-02-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261106T000000Z
-DTEND:20261106T010000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261105T150000Z
+DTEND:20261105T160000Z
 SUMMARY:Reading: Machine Learning — Algorithms (3/3)
 DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
   full machine learning series use the author index.\nEstimated topic tota
@@ -75,10 +75,10 @@ URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261106T010000Z
-DTEND:20261106T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
 SUMMARY:Reading: Deep Learning Series (1/4)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
@@ -88,10 +88,10 @@ URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261107T000000Z
-DTEND:20261107T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
 SUMMARY:Reading: Deep Learning Series (2/4)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
@@ -101,10 +101,10 @@ URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261107T150000Z
-DTEND:20261107T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261107T060000Z
+DTEND:20261107T110000Z
 SUMMARY:Reading: Deep Learning Series (3/4)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
@@ -114,10 +114,10 @@ URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261108T150000Z
-DTEND:20261108T170000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261108T060000Z
+DTEND:20261108T080000Z
 SUMMARY:Reading: Deep Learning Series (4/4)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
@@ -127,10 +127,10 @@ URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261108T170000Z
-DTEND:20261108T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261108T080000Z
+DTEND:20261108T110000Z
 SUMMARY:Reading: AI Bias & Fairness Series (1/2)
 DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
   measures and limitations.\nEstimated topic total: 5 hours\; session 1 of
@@ -139,10 +139,10 @@ URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-04-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261110T000000Z
-DTEND:20261110T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261109T150000Z
+DTEND:20261109T170000Z
 SUMMARY:Reading: AI Bias & Fairness Series (2/2)
 DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
   measures and limitations.\nEstimated topic total: 5 hours\; session 2 of
@@ -151,10 +151,10 @@ URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261111T000000Z
-DTEND:20261111T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261110T150000Z
+DTEND:20261110T170000Z
 SUMMARY:Reading: TensorFlow 2 Series (1/4)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
@@ -164,10 +164,10 @@ URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261112T000000Z
-DTEND:20261112T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261111T150000Z
+DTEND:20261111T170000Z
 SUMMARY:Reading: TensorFlow 2 Series (2/4)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
@@ -177,10 +177,10 @@ URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261113T000000Z
-DTEND:20261113T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261112T150000Z
+DTEND:20261112T170000Z
 SUMMARY:Reading: TensorFlow 2 Series (3/4)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
@@ -190,10 +190,10 @@ URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05-part-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261114T000000Z
-DTEND:20261114T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
 SUMMARY:Reading: TensorFlow 2 Series (4/4)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
@@ -203,10 +203,10 @@ URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-06@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261114T150000Z
-DTEND:20261114T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261114T060000Z
+DTEND:20261114T110000Z
 SUMMARY:Reading: Object Detection Series (1/2)
 DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
  gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
@@ -216,10 +216,10 @@ URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-06-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261115T150000Z
-DTEND:20261115T180000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261115T060000Z
+DTEND:20261115T090000Z
 SUMMARY:Reading: Object Detection Series (2/2)
 DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
  gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
@@ -229,10 +229,10 @@ URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261115T180000Z
-DTEND:20261115T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261115T090000Z
+DTEND:20261115T110000Z
 SUMMARY:Reading: GAN Series (1/5)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
   and model variations.\nEstimated topic total: 10 hours\; session 1 of 5.
@@ -241,10 +241,10 @@ URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261117T000000Z
-DTEND:20261117T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261116T150000Z
+DTEND:20261116T170000Z
 SUMMARY:Reading: GAN Series (2/5)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
   and model variations.\nEstimated topic total: 10 hours\; session 2 of 5.
@@ -253,10 +253,10 @@ URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261118T000000Z
-DTEND:20261118T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261117T150000Z
+DTEND:20261117T170000Z
 SUMMARY:Reading: GAN Series (3/5)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
   and model variations.\nEstimated topic total: 10 hours\; session 3 of 5.
@@ -265,10 +265,10 @@ URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261119T000000Z
-DTEND:20261119T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261118T150000Z
+DTEND:20261118T170000Z
 SUMMARY:Reading: GAN Series (4/5)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
   and model variations.\nEstimated topic total: 10 hours\; session 4 of 5.
@@ -277,10 +277,10 @@ URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-05@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261120T000000Z
-DTEND:20261120T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261119T150000Z
+DTEND:20261119T170000Z
 SUMMARY:Reading: GAN Series (5/5)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
   and model variations.\nEstimated topic total: 10 hours\; session 5 of 5.
@@ -289,10 +289,10 @@ URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-08@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261121T000000Z
-DTEND:20261121T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
 SUMMARY:Reading: Deepfakes series (1/2)
 DESCRIPTION:Generative AI. Open the Deepfakes Series from the author index
  \; explore generation and detection.\nEstimated topic total: 4 hours\; se
@@ -303,10 +303,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-08-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261121T150000Z
-DTEND:20261121T170000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261121T060000Z
+DTEND:20261121T080000Z
 SUMMARY:Reading: Deepfakes series (2/2)
 DESCRIPTION:Generative AI. Open the Deepfakes Series from the author index
  \; explore generation and detection.\nEstimated topic total: 4 hours\; se
@@ -317,10 +317,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-09@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261121T170000Z
-DTEND:20261121T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261121T080000Z
+DTEND:20261121T110000Z
 SUMMARY:Reading: NLP Series (1/2)
 DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
  beginning with word embeddings.\nEstimated topic total: 8 hours\; session
@@ -329,10 +329,10 @@ URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-09-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261122T150000Z
-DTEND:20261122T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261122T060000Z
+DTEND:20261122T110000Z
 SUMMARY:Reading: NLP Series (2/2)
 DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
  beginning with word embeddings.\nEstimated topic total: 8 hours\; session
@@ -341,10 +341,10 @@ URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261124T000000Z
-DTEND:20261124T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
 SUMMARY:Reading: Speech Recognition Series (1/4)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
  p speech models.\nEstimated topic total: 8 hours\; session 1 of 4.\nhttps
@@ -353,10 +353,10 @@ URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261125T000000Z
-DTEND:20261125T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
 SUMMARY:Reading: Speech Recognition Series (2/4)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
  p speech models.\nEstimated topic total: 8 hours\; session 2 of 4.\nhttps
@@ -365,10 +365,10 @@ URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261126T000000Z
-DTEND:20261126T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
 SUMMARY:Reading: Speech Recognition Series (3/4)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
  p speech models.\nEstimated topic total: 8 hours\; session 3 of 4.\nhttps
@@ -377,10 +377,10 @@ URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10-part-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261127T000000Z
-DTEND:20261127T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
 SUMMARY:Reading: Speech Recognition Series (4/4)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
  p speech models.\nEstimated topic total: 8 hours\; session 4 of 4.\nhttps
@@ -389,10 +389,10 @@ URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
 SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (1/3)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
@@ -403,10 +403,10 @@ URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261128T150000Z
-DTEND:20261128T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261128T060000Z
+DTEND:20261128T110000Z
 SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (2/3)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
@@ -417,10 +417,10 @@ URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261129T150000Z
-DTEND:20261129T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261129T060000Z
+DTEND:20261129T110000Z
 SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (3/3)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
@@ -431,10 +431,10 @@ URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-12@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261201T000000Z
-DTEND:20261201T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261130T150000Z
+DTEND:20261130T170000Z
 SUMMARY:Reading: Self-driving car series (1/3)
 DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
  author index.\nEstimated topic total: 5 hours\; session 1 of 3.\nhttps://
@@ -445,10 +445,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-12-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261202T000000Z
-DTEND:20261202T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261201T150000Z
+DTEND:20261201T170000Z
 SUMMARY:Reading: Self-driving car series (2/3)
 DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
  author index.\nEstimated topic total: 5 hours\; session 2 of 3.\nhttps://
@@ -459,10 +459,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-12-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261203T000000Z
-DTEND:20261203T010000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261202T150000Z
+DTEND:20261202T160000Z
 SUMMARY:Reading: Self-driving car series (3/3)
 DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
  author index.\nEstimated topic total: 5 hours\; session 3 of 3.\nhttps://
@@ -473,10 +473,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261203T010000Z
-DTEND:20261203T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261202T160000Z
+DTEND:20261202T170000Z
 SUMMARY:Reading: AI Chips Series (1/4)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
@@ -486,10 +486,10 @@ URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261204T000000Z
-DTEND:20261204T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261203T150000Z
+DTEND:20261203T170000Z
 SUMMARY:Reading: AI Chips Series (2/4)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
@@ -499,10 +499,10 @@ URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261205T000000Z
-DTEND:20261205T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
 SUMMARY:Reading: AI Chips Series (3/4)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
@@ -512,10 +512,10 @@ URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13-part-04@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261205T150000Z
-DTEND:20261205T160000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261205T060000Z
+DTEND:20261205T070000Z
 SUMMARY:Reading: AI Chips Series (4/4)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
@@ -525,10 +525,10 @@ URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-14@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261205T160000Z
-DTEND:20261205T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261205T070000Z
+DTEND:20261205T110000Z
 SUMMARY:Reading: Quantum Computing Series (1/2)
 DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
  gates and algorithms.\nEstimated topic total: 6 hours\; session 1 of 2.\n
@@ -538,10 +538,10 @@ URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-14-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261206T150000Z
-DTEND:20261206T170000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261206T060000Z
+DTEND:20261206T080000Z
 SUMMARY:Reading: Quantum Computing Series (2/2)
 DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
  gates and algorithms.\nEstimated topic total: 6 hours\; session 2 of 2.\n
@@ -551,10 +551,10 @@ URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-15@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261206T170000Z
-DTEND:20261206T190000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261206T080000Z
+DTEND:20261206T100000Z
 SUMMARY:Reading: Adversarial attacks
 DESCRIPTION:Security. Open Adversarial Attacks under Not part of a series 
  yet.\nEstimated topic total: 2 hours\; session 1 of 1.\nhttps://jonathan-
@@ -564,10 +564,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-16@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261206T190000Z
-DTEND:20261206T200000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261206T100000Z
+DTEND:20261206T110000Z
 SUMMARY:Reading: GPU computing\, setup and mixed precision (1/3)
 DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
  etup and mixed-precision links in the author index\; verify present-day i
@@ -579,10 +579,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-16-part-02@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261208T000000Z
-DTEND:20261208T020000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261207T150000Z
+DTEND:20261207T170000Z
 SUMMARY:Reading: GPU computing\, setup and mixed precision (2/3)
 DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
  etup and mixed-precision links in the author index\; verify present-day i
@@ -594,10 +594,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-16-part-03@readingtopics.local
-DTSTAMP:20261031T093135Z
-SEQUENCE:1
-DTSTART:20261209T000000Z
-DTEND:20261209T010000Z
+DTSTAMP:20261031T093242Z
+SEQUENCE:2
+DTSTART:20261208T150000Z
+DTEND:20261208T160000Z
 SUMMARY:Reading: GPU computing\, setup and mixed precision (3/3)
 DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
  etup and mixed-precision links in the author index\; verify present-day i
