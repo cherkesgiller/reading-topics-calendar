@@ -4,7 +4,7 @@ Source: [Jonathan Hui’s article index](https://jonathan-hui.medium.com/index-p
 
 A topic-level roadmap covering the 13 series named in the author’s index and its standalone categories, plus statistics. Series pages link to individual articles; this is not an exhaustive article inventory. The index and profile may omit or change articles, and some Medium pages may require access.
 
-Schedule starts November 2, 2026, in America/New_York. Weekdays have up to 2 hours from 7 p.m.; weekends have up to 5 hours from 10 a.m. Estimates are planning allowances for a selected pass and note-taking, not verified total reading times or a promise to finish every article in a series. Sessions continue on following days and can be adjusted. Status: all unread.
+Schedule starts November 2, 2026, in Asia/Baku. Weekdays have up to 2 hours from 7 p.m.; weekends have up to 5 hours from 10 a.m. Estimates are planning allowances for a selected pass and note-taking, not verified total reading times or a promise to finish every article in a series. Sessions continue on following days and can be adjusted. Status: all unread.
 
 | Dates | Cluster | Reading / entry point | Estimate | Guidance | Status |
 |---|---|---|---|---|---|
