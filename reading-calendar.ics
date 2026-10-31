@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reading Topics//Reading List//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Reading list
+BEGIN:VEVENT
+UID:jonathan-hui-topic-01@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning
+DESCRIPTION:Mathematics and statistics. Read the introduction and foundati
+ ons\; continue into part II.\nhttps://jonathan-hui.medium.com/statistics-
+ i-in-data-science-machine-learning-40444379dd43
+URL:https://jonathan-hui.medium.com/statistics-i-in-data-science-machine-l
+ earning-40444379dd43
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-02@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Reading: Machine Learning — Algorithms
+DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
+  full machine learning series use the author index.\nhttps://jonathan-hui
+ .medium.com/machine-learning-summary-algorithm-d75c64963800
+URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
+ c64963800
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-03@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Reading: Deep Learning Series
+DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
+  explore CNN\, RNN\, GNN and optimization.\nhttps://jonathan-hui.medium.c
+ om/deep-learning-series-f6b46d1e568e
+URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-04@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Reading: AI Bias & Fairness Series
+DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
+  measures and limitations.\nhttps://jonathan-hui.medium.com/ai-bias-fairn
+ ess-series-ce21ebf7b2e9
+URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-05@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Reading: TensorFlow 2 Series
+DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
+ coding examples after the basics.\nhttps://jonathan-hui.medium.com/tensor
+ flow-2-series-6fe39ef1614c
+URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-06@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Reading: Object Detection Series
+DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
+ gion-based and single-shot detectors.\nhttps://jonathan-hui.medium.com/ob
+ ject-detection-series-24d03a12f904
+URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-07@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Reading: GAN Series
+DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
+  and model variations.\nhttps://jonathan-hui.medium.com/gan-gan-series-2d
+ 279f906e7b
+URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-08@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Reading: Deepfakes series
+DESCRIPTION:Generative AI. Open the Deepfakes Series from the author index
+ \; explore generation and detection.\nhttps://jonathan-hui.medium.com/ind
+ ex-page-for-my-articles-in-deep-learning-19821810a14
+URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
+ rning-19821810a14
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-09@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Reading: NLP Series
+DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
+ beginning with word embeddings.\nhttps://jonathan-hui.medium.com/nlp-seri
+ es-2c9613876542
+URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-10@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Reading: Speech Recognition Series
+DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
+ p speech models.\nhttps://jonathan-hui.medium.com/speech-recognition-seri
+ es-71fd6784551a
+URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-11@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series
+DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
+ arning and Q-learning\; continue to policy methods and meta-learning.\nht
+ tps://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-83331
+ 9a95530
+URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
+ 833319a95530
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-12@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Reading: Self-driving car series
+DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
+ author index.\nhttps://jonathan-hui.medium.com/index-page-for-my-articles
+ -in-deep-learning-19821810a14
+URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
+ rning-19821810a14
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-13@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Reading: AI Chips Series
+DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
+ k current sources for newer products.\nhttps://jonathan-hui.medium.com/ai
+ -chips-series-81f9d95073b6
+URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-14@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Reading: Quantum Computing Series
+DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
+ gates and algorithms.\nhttps://jonathan-hui.medium.com/qc-quantum-computi
+ ng-series-10ddd7977abd
+URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
+ bd
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-15@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Reading: Adversarial attacks
+DESCRIPTION:Security. Open Adversarial Attacks under Not part of a series 
+ yet.\nhttps://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-
+ learning-19821810a14
+URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
+ rning-19821810a14
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-16@readingtopics.local
+DTSTAMP:20261031T120000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Reading: GPU computing\, setup and mixed precision
+DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
+ etup and mixed-precision links in the author index\; verify present-day i
+ nstructions.\nhttps://jonathan-hui.medium.com/index-page-for-my-articles-
+ in-deep-learning-19821810a14
+URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
+ rning-19821810a14
+END:VEVENT
+END:VCALENDAR
