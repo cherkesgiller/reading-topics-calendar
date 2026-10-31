@@ -607,4 +607,420 @@ DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
 URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
  rning-19821810a14
 END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch01-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261209T150000Z
+DTEND:20261209T170000Z
+SUMMARY:DDIA Ch 1: Reliable\, Scalable\, and Maintainable Applications (1/
+ 2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 1. Data systems foundations. Reliability\, scalability\, and mai
+ ntainability.\nStarts at page 3\; approximately 24 pages. Estimated chapt
+ er study time 2.5 hours. Session 1 of 2.\nhttps://www.oreilly.com/library
+ /view/designing-data-intensive-applications/9781491903063/ch01.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch01.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch01-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261210T150000Z
+DTEND:20261210T153000Z
+SUMMARY:DDIA Ch 1: Reliable\, Scalable\, and Maintainable Applications (2/
+ 2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 1. Data systems foundations. Reliability\, scalability\, and mai
+ ntainability.\nStarts at page 3\; approximately 24 pages. Estimated chapt
+ er study time 2.5 hours. Session 2 of 2.\nhttps://www.oreilly.com/library
+ /view/designing-data-intensive-applications/9781491903063/ch01.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch01.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch02-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261210T153000Z
+DTEND:20261210T170000Z
+SUMMARY:DDIA Ch 2: Data Models and Query Languages (1/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 2. Data systems foundations. Relational\, document\, and graph m
+ odels and queries.\nStarts at page 27\; approximately 39 pages. Estimated
+  chapter study time 4 hours. Session 1 of 3.\nhttps://www.oreilly.com/lib
+ rary/view/designing-data-intensive-applications/9781491903063/ch02.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch02-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:DDIA Ch 2: Data Models and Query Languages (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 2. Data systems foundations. Relational\, document\, and graph m
+ odels and queries.\nStarts at page 27\; approximately 39 pages. Estimated
+  chapter study time 4 hours. Session 2 of 3.\nhttps://www.oreilly.com/lib
+ rary/view/designing-data-intensive-applications/9781491903063/ch02.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch02-part03@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261212T060000Z
+DTEND:20261212T063000Z
+SUMMARY:DDIA Ch 2: Data Models and Query Languages (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 2. Data systems foundations. Relational\, document\, and graph m
+ odels and queries.\nStarts at page 27\; approximately 39 pages. Estimated
+  chapter study time 4 hours. Session 3 of 3.\nhttps://www.oreilly.com/lib
+ rary/view/designing-data-intensive-applications/9781491903063/ch02.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch02.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch03-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261212T063000Z
+DTEND:20261212T103000Z
+SUMMARY:DDIA Ch 3: Storage and Retrieval
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 3. Data systems foundations. Indexes\, storage engines\, and ana
+ lytics.\nStarts at page 69\; approximately 36 pages. Estimated chapter st
+ udy time 4 hours. Session 1 of 1.\nhttps://www.oreilly.com/library/view/d
+ esigning-data-intensive-applications/9781491903063/ch03.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch04-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261212T103000Z
+DTEND:20261212T110000Z
+SUMMARY:DDIA Ch 4: Encoding and Evolution (1/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 4. Data systems foundations. Data formats\, schemas\, and evolut
+ ion.\nStarts at page 111\; approximately 29 pages. Estimated chapter stud
+ y time 3 hours. Session 1 of 2.\nhttps://www.oreilly.com/library/view/des
+ igning-data-intensive-applications/9781491903063/ch04.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch04.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch04-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261213T060000Z
+DTEND:20261213T083000Z
+SUMMARY:DDIA Ch 4: Encoding and Evolution (2/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 4. Data systems foundations. Data formats\, schemas\, and evolut
+ ion.\nStarts at page 111\; approximately 29 pages. Estimated chapter stud
+ y time 3 hours. Session 2 of 2.\nhttps://www.oreilly.com/library/view/des
+ igning-data-intensive-applications/9781491903063/ch04.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch04.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch05-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261213T083000Z
+DTEND:20261213T110000Z
+SUMMARY:DDIA Ch 5: Replication (1/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 5. Distributed data systems. Replication strategies and consiste
+ ncy trade-offs.\nStarts at page 151\; approximately 43 pages. Estimated c
+ hapter study time 4.5 hours. Session 1 of 2.\nhttps://www.oreilly.com/lib
+ rary/view/designing-data-intensive-applications/9781491903063/ch05.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch05.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch05-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261214T150000Z
+DTEND:20261214T170000Z
+SUMMARY:DDIA Ch 5: Replication (2/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 5. Distributed data systems. Replication strategies and consiste
+ ncy trade-offs.\nStarts at page 151\; approximately 43 pages. Estimated c
+ hapter study time 4.5 hours. Session 2 of 2.\nhttps://www.oreilly.com/lib
+ rary/view/designing-data-intensive-applications/9781491903063/ch05.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch05.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch06-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261215T150000Z
+DTEND:20261215T170000Z
+SUMMARY:DDIA Ch 6: Partitioning
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 6. Distributed data systems. Partitioning\, skew\, and rebalanci
+ ng.\nStarts at page 199\; approximately 19 pages. Estimated chapter study
+  time 2 hours. Session 1 of 1.\nhttps://www.oreilly.com/library/view/desi
+ gning-data-intensive-applications/9781491903063/ch06.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch06.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch07-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261216T150000Z
+DTEND:20261216T170000Z
+SUMMARY:DDIA Ch 7: Transactions (1/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 7. Distributed data systems. ACID\, isolation\, and serializabil
+ ity.\nStarts at page 221\; approximately 47 pages. Estimated chapter stud
+ y time 5 hours. Session 1 of 3.\nhttps://www.oreilly.com/library/view/des
+ igning-data-intensive-applications/9781491903063/ch07.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch07-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261217T150000Z
+DTEND:20261217T170000Z
+SUMMARY:DDIA Ch 7: Transactions (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 7. Distributed data systems. ACID\, isolation\, and serializabil
+ ity.\nStarts at page 221\; approximately 47 pages. Estimated chapter stud
+ y time 5 hours. Session 2 of 3.\nhttps://www.oreilly.com/library/view/des
+ igning-data-intensive-applications/9781491903063/ch07.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch07-part03@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261218T150000Z
+DTEND:20261218T160000Z
+SUMMARY:DDIA Ch 7: Transactions (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 7. Distributed data systems. ACID\, isolation\, and serializabil
+ ity.\nStarts at page 221\; approximately 47 pages. Estimated chapter stud
+ y time 5 hours. Session 3 of 3.\nhttps://www.oreilly.com/library/view/des
+ igning-data-intensive-applications/9781491903063/ch07.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch08-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261218T160000Z
+DTEND:20261218T170000Z
+SUMMARY:DDIA Ch 8: The Trouble with Distributed Systems (1/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 8. Distributed data systems. Partial failures\, clocks\, and net
+ works.\nStarts at page 273\; approximately 38 pages. Estimated chapter st
+ udy time 4 hours. Session 1 of 2.\nhttps://www.oreilly.com/library/view/d
+ esigning-data-intensive-applications/9781491903063/ch08.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch08.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch08-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261219T060000Z
+DTEND:20261219T090000Z
+SUMMARY:DDIA Ch 8: The Trouble with Distributed Systems (2/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 8. Distributed data systems. Partial failures\, clocks\, and net
+ works.\nStarts at page 273\; approximately 38 pages. Estimated chapter st
+ udy time 4 hours. Session 2 of 2.\nhttps://www.oreilly.com/library/view/d
+ esigning-data-intensive-applications/9781491903063/ch08.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch08.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch09-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261219T090000Z
+DTEND:20261219T110000Z
+SUMMARY:DDIA Ch 9: Consistency and Consensus (1/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 9. Distributed data systems. Consistency\, ordering\, and consen
+ sus.\nStarts at page 321\; approximately 54 pages. Estimated chapter stud
+ y time 5.5 hours. Session 1 of 2.\nhttps://www.oreilly.com/library/view/d
+ esigning-data-intensive-applications/9781491903063/ch09.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch09.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch09-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261220T060000Z
+DTEND:20261220T093000Z
+SUMMARY:DDIA Ch 9: Consistency and Consensus (2/2)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 9. Distributed data systems. Consistency\, ordering\, and consen
+ sus.\nStarts at page 321\; approximately 54 pages. Estimated chapter stud
+ y time 5.5 hours. Session 2 of 2.\nhttps://www.oreilly.com/library/view/d
+ esigning-data-intensive-applications/9781491903063/ch09.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch09.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch10-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261220T093000Z
+DTEND:20261220T110000Z
+SUMMARY:DDIA Ch 10: Batch Processing (1/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 10. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series\, especially Dataset & Data Preparation\; batch pipelines are 
+ complementary.\nStarts at page 389\; approximately 41 pages. Estimated ch
+ apter study time 4.5 hours. Session 1 of 3.\nhttps://www.oreilly.com/libr
+ ary/view/designing-data-intensive-applications/9781491903063/ch10.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch10-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261221T150000Z
+DTEND:20261221T170000Z
+SUMMARY:DDIA Ch 10: Batch Processing (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 10. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series\, especially Dataset & Data Preparation\; batch pipelines are 
+ complementary.\nStarts at page 389\; approximately 41 pages. Estimated ch
+ apter study time 4.5 hours. Session 2 of 3.\nhttps://www.oreilly.com/libr
+ ary/view/designing-data-intensive-applications/9781491903063/ch10.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch10-part03@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261222T150000Z
+DTEND:20261222T160000Z
+SUMMARY:DDIA Ch 10: Batch Processing (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 10. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series\, especially Dataset & Data Preparation\; batch pipelines are 
+ complementary.\nStarts at page 389\; approximately 41 pages. Estimated ch
+ apter study time 4.5 hours. Session 3 of 3.\nhttps://www.oreilly.com/libr
+ ary/view/designing-data-intensive-applications/9781491903063/ch10.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch11-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261222T160000Z
+DTEND:20261222T170000Z
+SUMMARY:DDIA Ch 11: Stream Processing (1/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 11. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series data pipelines\; stream processing is complementary.\nStarts a
+ t page 439\; approximately 41 pages. Estimated chapter study time 4.5 hou
+ rs. Session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-
+ intensive-applications/9781491903063/ch11.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch11.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch11-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261223T150000Z
+DTEND:20261223T170000Z
+SUMMARY:DDIA Ch 11: Stream Processing (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 11. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series data pipelines\; stream processing is complementary.\nStarts a
+ t page 439\; approximately 41 pages. Estimated chapter study time 4.5 hou
+ rs. Session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-
+ intensive-applications/9781491903063/ch11.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch11.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch11-part03@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261224T150000Z
+DTEND:20261224T163000Z
+SUMMARY:DDIA Ch 11: Stream Processing (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 11. Data processing and responsible data use. Related: TensorFlo
+ w 2 Series data pipelines\; stream processing is complementary.\nStarts a
+ t page 439\; approximately 41 pages. Estimated chapter study time 4.5 hou
+ rs. Session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-
+ intensive-applications/9781491903063/ch11.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch11.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch12-part01@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261224T163000Z
+DTEND:20261224T170000Z
+SUMMARY:DDIA Ch 12: The Future of Data Systems (1/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 12. Data processing and responsible data use. Related: AI Bias &
+  Fairness Series: predictive analytics\, privacy\, and responsible use of
+  data.\nStarts at page 489\; approximately 55 pages. Estimated chapter st
+ udy time 5.5 hours. Session 1 of 3.\nhttps://www.oreilly.com/library/view
+ /designing-data-intensive-applications/9781491903063/ch12.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch12.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch12-part02@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261225T150000Z
+DTEND:20261225T170000Z
+SUMMARY:DDIA Ch 12: The Future of Data Systems (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 12. Data processing and responsible data use. Related: AI Bias &
+  Fairness Series: predictive analytics\, privacy\, and responsible use of
+  data.\nStarts at page 489\; approximately 55 pages. Estimated chapter st
+ udy time 5.5 hours. Session 2 of 3.\nhttps://www.oreilly.com/library/view
+ /designing-data-intensive-applications/9781491903063/ch12.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch12.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-first-edition-ch12-part03@readingtopics.local
+DTSTAMP:20261031T114817Z
+SEQUENCE:0
+DTSTART:20261226T060000Z
+DTEND:20261226T090000Z
+SUMMARY:DDIA Ch 12: The Future of Data Systems (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, first edition (2017)\,
+  Chapter 12. Data processing and responsible data use. Related: AI Bias &
+  Fairness Series: predictive analytics\, privacy\, and responsible use of
+  data.\nStarts at page 489\; approximately 55 pages. Estimated chapter st
+ udy time 5.5 hours. Session 3 of 3.\nhttps://www.oreilly.com/library/view
+ /designing-data-intensive-applications/9781491903063/ch12.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781491903063/ch12.html
+END:VEVENT
 END:VCALENDAR
