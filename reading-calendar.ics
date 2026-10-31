@@ -5,294 +5,267 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Reading list
 BEGIN:VEVENT
 UID:jonathan-hui-topic-01@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261102T150000Z
-DTEND:20261102T170000Z
-SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261031T120000Z
+DTEND:20261031T150000Z
+SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning
 DESCRIPTION:Mathematics and statistics. Read the introduction and foundati
  ons\; continue into part II.\nEstimated topic total: 3 hours\; session 1 
- of 2.\nhttps://jonathan-hui.medium.com/statistics-i-in-data-science-machi
- ne-learning-40444379dd43
-URL:https://jonathan-hui.medium.com/statistics-i-in-data-science-machine-l
- earning-40444379dd43
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-01-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261103T150000Z
-DTEND:20261103T160000Z
-SUMMARY:Reading: Statistics (I) in Data Science & Machine Learning (2/2)
-DESCRIPTION:Mathematics and statistics. Read the introduction and foundati
- ons\; continue into part II.\nEstimated topic total: 3 hours\; session 2 
- of 2.\nhttps://jonathan-hui.medium.com/statistics-i-in-data-science-machi
+ of 1.\nhttps://jonathan-hui.medium.com/statistics-i-in-data-science-machi
  ne-learning-40444379dd43
 URL:https://jonathan-hui.medium.com/statistics-i-in-data-science-machine-l
  earning-40444379dd43
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261103T160000Z
-DTEND:20261103T170000Z
-SUMMARY:Reading: Machine Learning — Algorithms (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Reading: Machine Learning — Algorithms (1/2)
 DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
   full machine learning series use the author index.\nEstimated topic tota
- l: 4 hours\; session 1 of 3.\nhttps://jonathan-hui.medium.com/machine-lea
+ l: 4 hours\; session 1 of 2.\nhttps://jonathan-hui.medium.com/machine-lea
  rning-summary-algorithm-d75c64963800
 URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
  c64963800
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-02-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261104T150000Z
-DTEND:20261104T170000Z
-SUMMARY:Reading: Machine Learning — Algorithms (2/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261101T060000Z
+DTEND:20261101T080000Z
+SUMMARY:Reading: Machine Learning — Algorithms (2/2)
 DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
   full machine learning series use the author index.\nEstimated topic tota
- l: 4 hours\; session 2 of 3.\nhttps://jonathan-hui.medium.com/machine-lea
- rning-summary-algorithm-d75c64963800
-URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
- c64963800
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-02-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261105T150000Z
-DTEND:20261105T160000Z
-SUMMARY:Reading: Machine Learning — Algorithms (3/3)
-DESCRIPTION:Machine learning. Long survey\; split across sessions. For the
-  full machine learning series use the author index.\nEstimated topic tota
- l: 4 hours\; session 3 of 3.\nhttps://jonathan-hui.medium.com/machine-lea
+ l: 4 hours\; session 2 of 2.\nhttps://jonathan-hui.medium.com/machine-lea
  rning-summary-algorithm-d75c64963800
 URL:https://jonathan-hui.medium.com/machine-learning-summary-algorithm-d75
  c64963800
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261105T160000Z
-DTEND:20261105T170000Z
-SUMMARY:Reading: Deep Learning Series (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261101T080000Z
+DTEND:20261101T110000Z
+SUMMARY:Reading: Deep Learning Series (1/5)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
- rs\; session 1 of 4.\nhttps://jonathan-hui.medium.com/deep-learning-serie
+ rs\; session 1 of 5.\nhttps://jonathan-hui.medium.com/deep-learning-serie
  s-f6b46d1e568e
 URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261106T150000Z
-DTEND:20261106T170000Z
-SUMMARY:Reading: Deep Learning Series (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261102T150000Z
+DTEND:20261102T170000Z
+SUMMARY:Reading: Deep Learning Series (2/5)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
- rs\; session 2 of 4.\nhttps://jonathan-hui.medium.com/deep-learning-serie
+ rs\; session 2 of 5.\nhttps://jonathan-hui.medium.com/deep-learning-serie
  s-f6b46d1e568e
 URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261107T060000Z
-DTEND:20261107T110000Z
-SUMMARY:Reading: Deep Learning Series (3/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261103T150000Z
+DTEND:20261103T170000Z
+SUMMARY:Reading: Deep Learning Series (3/5)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
- rs\; session 3 of 4.\nhttps://jonathan-hui.medium.com/deep-learning-serie
+ rs\; session 3 of 5.\nhttps://jonathan-hui.medium.com/deep-learning-serie
  s-f6b46d1e568e
 URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-03-part-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261108T060000Z
-DTEND:20261108T080000Z
-SUMMARY:Reading: Deep Learning Series (4/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261104T150000Z
+DTEND:20261104T170000Z
+SUMMARY:Reading: Deep Learning Series (4/5)
 DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
   explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
- rs\; session 4 of 4.\nhttps://jonathan-hui.medium.com/deep-learning-serie
+ rs\; session 4 of 5.\nhttps://jonathan-hui.medium.com/deep-learning-serie
+ s-f6b46d1e568e
+URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-03-part-05@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261105T150000Z
+DTEND:20261105T160000Z
+SUMMARY:Reading: Deep Learning Series (5/5)
+DESCRIPTION:Deep learning. Start with the six-part project sequence\, then
+  explore CNN\, RNN\, GNN and optimization.\nEstimated topic total: 10 hou
+ rs\; session 5 of 5.\nhttps://jonathan-hui.medium.com/deep-learning-serie
  s-f6b46d1e568e
 URL:https://jonathan-hui.medium.com/deep-learning-series-f6b46d1e568e
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261108T080000Z
-DTEND:20261108T110000Z
-SUMMARY:Reading: AI Bias & Fairness Series (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
+SUMMARY:Reading: AI Bias & Fairness Series (1/3)
 DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
   measures and limitations.\nEstimated topic total: 5 hours\; session 1 of
-  2.\nhttps://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
+  3.\nhttps://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-04-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261109T150000Z
-DTEND:20261109T170000Z
-SUMMARY:Reading: AI Bias & Fairness Series (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Reading: AI Bias & Fairness Series (2/3)
 DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
   measures and limitations.\nEstimated topic total: 5 hours\; session 2 of
-  2.\nhttps://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
+  3.\nhttps://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
+URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-04-part-03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261107T060000Z
+DTEND:20261107T080000Z
+SUMMARY:Reading: AI Bias & Fairness Series (3/3)
+DESCRIPTION:Responsible AI. Read the five linked pieces on bias\, fairness
+  measures and limitations.\nEstimated topic total: 5 hours\; session 3 of
+  3.\nhttps://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 URL:https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261110T150000Z
-DTEND:20261110T170000Z
-SUMMARY:Reading: TensorFlow 2 Series (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261107T080000Z
+DTEND:20261107T110000Z
+SUMMARY:Reading: TensorFlow 2 Series (1/2)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
- on 1 of 4.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
+ on 1 of 2.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
  14c
 URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-05-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261111T150000Z
-DTEND:20261111T170000Z
-SUMMARY:Reading: TensorFlow 2 Series (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261108T060000Z
+DTEND:20261108T110000Z
+SUMMARY:Reading: TensorFlow 2 Series (2/2)
 DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
  coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
- on 2 of 4.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
- 14c
-URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-05-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261112T150000Z
-DTEND:20261112T170000Z
-SUMMARY:Reading: TensorFlow 2 Series (3/4)
-DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
- coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
- on 3 of 4.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
- 14c
-URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-05-part-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261113T150000Z
-DTEND:20261113T170000Z
-SUMMARY:Reading: TensorFlow 2 Series (4/4)
-DESCRIPTION:Deep learning tools. Start with TensorFlow and Keras\; select 
- coding examples after the basics.\nEstimated topic total: 8 hours\; sessi
- on 4 of 4.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
+ on 2 of 2.\nhttps://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef16
  14c
 URL:https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-06@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261114T060000Z
-DTEND:20261114T110000Z
-SUMMARY:Reading: Object Detection Series (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261109T150000Z
+DTEND:20261109T170000Z
+SUMMARY:Reading: Object Detection Series (1/4)
 DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
  gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
- ession 1 of 2.\nhttps://jonathan-hui.medium.com/object-detection-series-2
+ ession 1 of 4.\nhttps://jonathan-hui.medium.com/object-detection-series-2
  4d03a12f904
 URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-06-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261115T060000Z
-DTEND:20261115T090000Z
-SUMMARY:Reading: Object Detection Series (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261110T150000Z
+DTEND:20261110T170000Z
+SUMMARY:Reading: Object Detection Series (2/4)
 DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
  gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
- ession 2 of 2.\nhttps://jonathan-hui.medium.com/object-detection-series-2
+ ession 2 of 4.\nhttps://jonathan-hui.medium.com/object-detection-series-2
+ 4d03a12f904
+URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-06-part-03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261111T150000Z
+DTEND:20261111T170000Z
+SUMMARY:Reading: Object Detection Series (3/4)
+DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
+ gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
+ ession 3 of 4.\nhttps://jonathan-hui.medium.com/object-detection-series-2
+ 4d03a12f904
+URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-06-part-04@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261112T150000Z
+DTEND:20261112T170000Z
+SUMMARY:Reading: Object Detection Series (4/4)
+DESCRIPTION:Computer vision. Start with the overview and metrics\, then re
+ gion-based and single-shot detectors.\nEstimated topic total: 8 hours\; s
+ ession 4 of 4.\nhttps://jonathan-hui.medium.com/object-detection-series-2
  4d03a12f904
 URL:https://jonathan-hui.medium.com/object-detection-series-24d03a12f904
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261115T090000Z
-DTEND:20261115T110000Z
-SUMMARY:Reading: GAN Series (1/5)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Reading: GAN Series (1/3)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
-  and model variations.\nEstimated topic total: 10 hours\; session 1 of 5.
+  and model variations.\nEstimated topic total: 10 hours\; session 1 of 3.
  \nhttps://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261116T150000Z
-DTEND:20261116T170000Z
-SUMMARY:Reading: GAN Series (2/5)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261114T060000Z
+DTEND:20261114T110000Z
+SUMMARY:Reading: GAN Series (2/3)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
-  and model variations.\nEstimated topic total: 10 hours\; session 2 of 5.
+  and model variations.\nEstimated topic total: 10 hours\; session 2 of 3.
  \nhttps://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-07-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261117T150000Z
-DTEND:20261117T170000Z
-SUMMARY:Reading: GAN Series (3/5)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261115T060000Z
+DTEND:20261115T090000Z
+SUMMARY:Reading: GAN Series (3/3)
 DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
-  and model variations.\nEstimated topic total: 10 hours\; session 3 of 5.
- \nhttps://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
-URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-07-part-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261118T150000Z
-DTEND:20261118T170000Z
-SUMMARY:Reading: GAN Series (4/5)
-DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
-  and model variations.\nEstimated topic total: 10 hours\; session 4 of 5.
- \nhttps://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
-URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-07-part-05@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261119T150000Z
-DTEND:20261119T170000Z
-SUMMARY:Reading: GAN Series (5/5)
-DESCRIPTION:Generative AI. Begin with GAN basics\, then training stability
-  and model variations.\nEstimated topic total: 10 hours\; session 5 of 5.
+  and model variations.\nEstimated topic total: 10 hours\; session 3 of 3.
  \nhttps://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 URL:https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-08@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261120T150000Z
-DTEND:20261120T170000Z
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261115T090000Z
+DTEND:20261115T110000Z
 SUMMARY:Reading: Deepfakes series (1/2)
 DESCRIPTION:Generative AI. Open the Deepfakes Series from the author index
  \; explore generation and detection.\nEstimated topic total: 4 hours\; se
@@ -303,10 +276,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-08-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261121T060000Z
-DTEND:20261121T080000Z
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261116T150000Z
+DTEND:20261116T170000Z
 SUMMARY:Reading: Deepfakes series (2/2)
 DESCRIPTION:Generative AI. Open the Deepfakes Series from the author index
  \; explore generation and detection.\nEstimated topic total: 4 hours\; se
@@ -317,155 +290,169 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-09@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261121T080000Z
-DTEND:20261121T110000Z
-SUMMARY:Reading: NLP Series (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261117T150000Z
+DTEND:20261117T170000Z
+SUMMARY:Reading: NLP Series (1/4)
 DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
  beginning with word embeddings.\nEstimated topic total: 8 hours\; session
-  1 of 2.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
+  1 of 4.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
 URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-09-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261122T060000Z
-DTEND:20261122T110000Z
-SUMMARY:Reading: NLP Series (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261118T150000Z
+DTEND:20261118T170000Z
+SUMMARY:Reading: NLP Series (2/4)
 DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
  beginning with word embeddings.\nEstimated topic total: 8 hours\; session
-  2 of 2.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
+  2 of 4.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
+URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-09-part-03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261119T150000Z
+DTEND:20261119T170000Z
+SUMMARY:Reading: NLP Series (3/4)
+DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
+ beginning with word embeddings.\nEstimated topic total: 8 hours\; session
+  3 of 4.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
+URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-09-part-04@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Reading: NLP Series (4/4)
+DESCRIPTION:Natural language processing. Follow the linked NLP articles\, 
+ beginning with word embeddings.\nEstimated topic total: 8 hours\; session
+  4 of 4.\nhttps://jonathan-hui.medium.com/nlp-series-2c9613876542
 URL:https://jonathan-hui.medium.com/nlp-series-2c9613876542
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261123T150000Z
-DTEND:20261123T170000Z
-SUMMARY:Reading: Speech Recognition Series (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261121T060000Z
+DTEND:20261121T110000Z
+SUMMARY:Reading: Speech Recognition Series (1/2)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
- p speech models.\nEstimated topic total: 8 hours\; session 1 of 4.\nhttps
+ p speech models.\nEstimated topic total: 8 hours\; session 1 of 2.\nhttps
  ://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-10-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261124T150000Z
-DTEND:20261124T170000Z
-SUMMARY:Reading: Speech Recognition Series (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261122T060000Z
+DTEND:20261122T090000Z
+SUMMARY:Reading: Speech Recognition Series (2/2)
 DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
- p speech models.\nEstimated topic total: 8 hours\; session 2 of 4.\nhttps
- ://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
-URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-10-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261125T150000Z
-DTEND:20261125T170000Z
-SUMMARY:Reading: Speech Recognition Series (3/4)
-DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
- p speech models.\nEstimated topic total: 8 hours\; session 3 of 4.\nhttps
- ://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
-URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-10-part-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261126T150000Z
-DTEND:20261126T170000Z
-SUMMARY:Reading: Speech Recognition Series (4/4)
-DESCRIPTION:Speech. Follow the sequence from phonetics and features to dee
- p speech models.\nEstimated topic total: 8 hours\; session 4 of 4.\nhttps
+ p speech models.\nEstimated topic total: 8 hours\; session 2 of 2.\nhttps
  ://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 URL:https://jonathan-hui.medium.com/speech-recognition-series-71fd6784551a
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261127T150000Z
-DTEND:20261127T170000Z
-SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261122T090000Z
+DTEND:20261122T110000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (1/6)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
- timated topic total: 12 hours\; session 1 of 3.\nhttps://jonathan-hui.med
+ timated topic total: 12 hours\; session 1 of 6.\nhttps://jonathan-hui.med
  ium.com/rl-deep-reinforcement-learning-series-833319a95530
 URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
  833319a95530
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261128T060000Z
-DTEND:20261128T110000Z
-SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (2/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261123T150000Z
+DTEND:20261123T170000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (2/6)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
- timated topic total: 12 hours\; session 2 of 3.\nhttps://jonathan-hui.med
+ timated topic total: 12 hours\; session 2 of 6.\nhttps://jonathan-hui.med
  ium.com/rl-deep-reinforcement-learning-series-833319a95530
 URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
  833319a95530
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-11-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261129T060000Z
-DTEND:20261129T110000Z
-SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (3/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261124T150000Z
+DTEND:20261124T170000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (3/6)
 DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
  arning and Q-learning\; continue to policy methods and meta-learning.\nEs
- timated topic total: 12 hours\; session 3 of 3.\nhttps://jonathan-hui.med
+ timated topic total: 12 hours\; session 3 of 6.\nhttps://jonathan-hui.med
+ ium.com/rl-deep-reinforcement-learning-series-833319a95530
+URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
+ 833319a95530
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-11-part-04@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261125T150000Z
+DTEND:20261125T170000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (4/6)
+DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
+ arning and Q-learning\; continue to policy methods and meta-learning.\nEs
+ timated topic total: 12 hours\; session 4 of 6.\nhttps://jonathan-hui.med
+ ium.com/rl-deep-reinforcement-learning-series-833319a95530
+URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
+ 833319a95530
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-11-part-05@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (5/6)
+DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
+ arning and Q-learning\; continue to policy methods and meta-learning.\nEs
+ timated topic total: 12 hours\; session 5 of 6.\nhttps://jonathan-hui.med
+ ium.com/rl-deep-reinforcement-learning-series-833319a95530
+URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
+ 833319a95530
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-11-part-06@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Reading: Deep Reinforcement Learning & Meta-Learning Series (6/6)
+DESCRIPTION:Reinforcement learning. Start with the introduction\, value le
+ arning and Q-learning\; continue to policy methods and meta-learning.\nEs
+ timated topic total: 12 hours\; session 6 of 6.\nhttps://jonathan-hui.med
  ium.com/rl-deep-reinforcement-learning-series-833319a95530
 URL:https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-
  833319a95530
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-12@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261130T150000Z
-DTEND:20261130T170000Z
-SUMMARY:Reading: Self-driving car series (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261128T060000Z
+DTEND:20261128T110000Z
+SUMMARY:Reading: Self-driving car series
 DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
- author index.\nEstimated topic total: 5 hours\; session 1 of 3.\nhttps://
- jonathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-19821
- 810a14
-URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
- rning-19821810a14
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-12-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261201T150000Z
-DTEND:20261201T170000Z
-SUMMARY:Reading: Self-driving car series (2/3)
-DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
- author index.\nEstimated topic total: 5 hours\; session 2 of 3.\nhttps://
- jonathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-19821
- 810a14
-URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
- rning-19821810a14
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-12-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261202T150000Z
-DTEND:20261202T160000Z
-SUMMARY:Reading: Self-driving car series (3/3)
-DESCRIPTION:Autonomous systems. Open the self-driving car series from the 
- author index.\nEstimated topic total: 5 hours\; session 3 of 3.\nhttps://
+ author index.\nEstimated topic total: 5 hours\; session 1 of 1.\nhttps://
  jonathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-19821
  810a14
 URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
@@ -473,105 +460,118 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261202T160000Z
-DTEND:20261202T170000Z
-SUMMARY:Reading: AI Chips Series (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261129T060000Z
+DTEND:20261129T110000Z
+SUMMARY:Reading: AI Chips Series (1/2)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
- ession 1 of 4.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
+ ession 1 of 2.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
  3b6
 URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-13-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261203T150000Z
-DTEND:20261203T170000Z
-SUMMARY:Reading: AI Chips Series (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261130T150000Z
+DTEND:20261130T160000Z
+SUMMARY:Reading: AI Chips Series (2/2)
 DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
  k current sources for newer products.\nEstimated topic total: 6 hours\; s
- ession 2 of 4.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
- 3b6
-URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-13-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261204T150000Z
-DTEND:20261204T170000Z
-SUMMARY:Reading: AI Chips Series (3/4)
-DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
- k current sources for newer products.\nEstimated topic total: 6 hours\; s
- ession 3 of 4.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
- 3b6
-URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-13-part-04@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261205T060000Z
-DTEND:20261205T070000Z
-SUMMARY:Reading: AI Chips Series (4/4)
-DESCRIPTION:AI hardware. Compare GPU\, TPU\, FPGA and edge hardware\; chec
- k current sources for newer products.\nEstimated topic total: 6 hours\; s
- ession 4 of 4.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
+ ession 2 of 2.\nhttps://jonathan-hui.medium.com/ai-chips-series-81f9d9507
  3b6
 URL:https://jonathan-hui.medium.com/ai-chips-series-81f9d95073b6
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-14@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261205T070000Z
-DTEND:20261205T110000Z
-SUMMARY:Reading: Quantum Computing Series (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261130T160000Z
+DTEND:20261130T170000Z
+SUMMARY:Reading: Quantum Computing Series (1/4)
 DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
- gates and algorithms.\nEstimated topic total: 6 hours\; session 1 of 2.\n
+ gates and algorithms.\nEstimated topic total: 6 hours\; session 1 of 4.\n
  https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd
 URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
  bd
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-14-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261206T060000Z
-DTEND:20261206T080000Z
-SUMMARY:Reading: Quantum Computing Series (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261201T150000Z
+DTEND:20261201T170000Z
+SUMMARY:Reading: Quantum Computing Series (2/4)
 DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
- gates and algorithms.\nEstimated topic total: 6 hours\; session 2 of 2.\n
+ gates and algorithms.\nEstimated topic total: 6 hours\; session 2 of 4.\n
+ https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd
+URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
+ bd
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-14-part-03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261202T150000Z
+DTEND:20261202T170000Z
+SUMMARY:Reading: Quantum Computing Series (3/4)
+DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
+ gates and algorithms.\nEstimated topic total: 6 hours\; session 3 of 4.\n
+ https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd
+URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
+ bd
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-14-part-04@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261203T150000Z
+DTEND:20261203T160000Z
+SUMMARY:Reading: Quantum Computing Series (4/4)
+DESCRIPTION:Quantum computing. Begin with the introduction\, then explore 
+ gates and algorithms.\nEstimated topic total: 6 hours\; session 4 of 4.\n
  https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd
 URL:https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977a
  bd
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-15@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261206T080000Z
-DTEND:20261206T100000Z
-SUMMARY:Reading: Adversarial attacks
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261203T160000Z
+DTEND:20261203T170000Z
+SUMMARY:Reading: Adversarial attacks (1/2)
 DESCRIPTION:Security. Open Adversarial Attacks under Not part of a series 
- yet.\nEstimated topic total: 2 hours\; session 1 of 1.\nhttps://jonathan-
+ yet.\nEstimated topic total: 2 hours\; session 1 of 2.\nhttps://jonathan-
+ hui.medium.com/index-page-for-my-articles-in-deep-learning-19821810a14
+URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
+ rning-19821810a14
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-hui-topic-15-part-02@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261204T150000Z
+DTEND:20261204T160000Z
+SUMMARY:Reading: Adversarial attacks (2/2)
+DESCRIPTION:Security. Open Adversarial Attacks under Not part of a series 
+ yet.\nEstimated topic total: 2 hours\; session 2 of 2.\nhttps://jonathan-
  hui.medium.com/index-page-for-my-articles-in-deep-learning-19821810a14
 URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
  rning-19821810a14
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-16@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261206T100000Z
-DTEND:20261206T110000Z
-SUMMARY:Reading: GPU computing\, setup and mixed precision (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261204T160000Z
+DTEND:20261204T170000Z
+SUMMARY:Reading: GPU computing\, setup and mixed precision (1/2)
 DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
  etup and mixed-precision links in the author index\; verify present-day i
- nstructions.\nEstimated topic total: 4 hours\; session 1 of 3.\nhttps://j
+ nstructions.\nEstimated topic total: 4 hours\; session 1 of 2.\nhttps://j
  onathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-198218
  10a14
 URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
@@ -579,29 +579,14 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:jonathan-hui-topic-16-part-02@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261207T150000Z
-DTEND:20261207T170000Z
-SUMMARY:Reading: GPU computing\, setup and mixed precision (2/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:3
+DTSTART:20261205T060000Z
+DTEND:20261205T090000Z
+SUMMARY:Reading: GPU computing\, setup and mixed precision (2/2)
 DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
  etup and mixed-precision links in the author index\; verify present-day i
- nstructions.\nEstimated topic total: 4 hours\; session 2 of 3.\nhttps://j
- onathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-198218
- 10a14
-URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
- rning-19821810a14
-END:VEVENT
-BEGIN:VEVENT
-UID:jonathan-hui-topic-16-part-03@readingtopics.local
-DTSTAMP:20261031T093242Z
-SEQUENCE:2
-DTSTART:20261208T150000Z
-DTEND:20261208T160000Z
-SUMMARY:Reading: GPU computing\, setup and mixed precision (3/3)
-DESCRIPTION:Computing infrastructure. Use the standalone GPU computing\, s
- etup and mixed-precision links in the author index\; verify present-day i
- nstructions.\nEstimated topic total: 4 hours\; session 3 of 3.\nhttps://j
+ nstructions.\nEstimated topic total: 4 hours\; session 2 of 2.\nhttps://j
  onathan-hui.medium.com/index-page-for-my-articles-in-deep-learning-198218
  10a14
 URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
@@ -609,10 +594,10 @@ URL:https://jonathan-hui.medium.com/index-page-for-my-articles-in-deep-lea
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch01-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261209T150000Z
-DTEND:20261209T170000Z
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261205T090000Z
+DTEND:20261205T110000Z
 SUMMARY:DDIA 2e Ch 1: Trade-Offs in Data Systems Architecture (1/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 1. Data systems foundations. Read the chapter and make notes.\n
@@ -624,10 +609,10 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch01-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261210T150000Z
-DTEND:20261210T163000Z
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261206T060000Z
+DTEND:20261206T073000Z
 SUMMARY:DDIA 2e Ch 1: Trade-Offs in Data Systems Architecture (2/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 1. Data systems foundations. Read the chapter and make notes.\n
@@ -639,90 +624,75 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch02-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261210T163000Z
-DTEND:20261210T170000Z
-SUMMARY:DDIA 2e Ch 2: Defining Nonfunctional Requirements (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261206T073000Z
+DTEND:20261206T110000Z
+SUMMARY:DDIA 2e Ch 2: Defining Nonfunctional Requirements
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 2. Data systems foundations. Read the chapter and make notes.\n
  Starts page 33\; about 32 pages including references. Estimated 3.5 hours
- \; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
- ntensive-applications/9781098119058/ch02.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch02.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch02-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261211T150000Z
-DTEND:20261211T170000Z
-SUMMARY:DDIA 2e Ch 2: Defining Nonfunctional Requirements (2/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 2. Data systems foundations. Read the chapter and make notes.\n
- Starts page 33\; about 32 pages including references. Estimated 3.5 hours
- \; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
- ntensive-applications/9781098119058/ch02.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch02.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch02-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261212T060000Z
-DTEND:20261212T070000Z
-SUMMARY:DDIA 2e Ch 2: Defining Nonfunctional Requirements (3/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 2. Data systems foundations. Read the chapter and make notes.\n
- Starts page 33\; about 32 pages including references. Estimated 3.5 hours
- \; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
+ \; session 1 of 1.\nhttps://www.oreilly.com/library/view/designing-data-i
  ntensive-applications/9781098119058/ch02.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch02.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch03-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261212T070000Z
-DTEND:20261212T110000Z
-SUMMARY:DDIA 2e Ch 3: Data Models and Query Languages (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261207T150000Z
+DTEND:20261207T170000Z
+SUMMARY:DDIA 2e Ch 3: Data Models and Query Languages (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 3. Data systems foundations. Related: Graph Neural Networks in 
  the Deep Learning Series.\nStarts page 65\; about 50 pages including refe
- rences. Estimated 5 hours\; session 1 of 2.\nhttps://www.oreilly.com/libr
+ rences. Estimated 5 hours\; session 1 of 3.\nhttps://www.oreilly.com/libr
  ary/view/designing-data-intensive-applications/9781098119058/ch03.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch03.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch03-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261213T060000Z
-DTEND:20261213T070000Z
-SUMMARY:DDIA 2e Ch 3: Data Models and Query Languages (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261208T150000Z
+DTEND:20261208T170000Z
+SUMMARY:DDIA 2e Ch 3: Data Models and Query Languages (2/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 3. Data systems foundations. Related: Graph Neural Networks in 
  the Deep Learning Series.\nStarts page 65\; about 50 pages including refe
- rences. Estimated 5 hours\; session 2 of 2.\nhttps://www.oreilly.com/libr
+ rences. Estimated 5 hours\; session 2 of 3.\nhttps://www.oreilly.com/libr
+ ary/view/designing-data-intensive-applications/9781098119058/ch03.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch03.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch03-part03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261209T150000Z
+DTEND:20261209T160000Z
+SUMMARY:DDIA 2e Ch 3: Data Models and Query Languages (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 3. Data systems foundations. Related: Graph Neural Networks in 
+ the Deep Learning Series.\nStarts page 65\; about 50 pages including refe
+ rences. Estimated 5 hours\; session 3 of 3.\nhttps://www.oreilly.com/libr
  ary/view/designing-data-intensive-applications/9781098119058/ch03.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch03.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch04-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261213T070000Z
-DTEND:20261213T110000Z
-SUMMARY:DDIA 2e Ch 4: Storage and Retrieval (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261209T160000Z
+DTEND:20261209T170000Z
+SUMMARY:DDIA 2e Ch 4: Storage and Retrieval (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 4. Data systems foundations. Related: NLP Series word embedding
  s\; this chapter discusses vector embeddings.\nStarts page 115\; about 46
-  pages including references. Estimated 5 hours\; session 1 of 2.\nhttps:/
+  pages including references. Estimated 5 hours\; session 1 of 3.\nhttps:/
  /www.oreilly.com/library/view/designing-data-intensive-applications/97810
  98119058/ch04.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -730,15 +700,31 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch04-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261214T150000Z
-DTEND:20261214T160000Z
-SUMMARY:DDIA 2e Ch 4: Storage and Retrieval (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261210T150000Z
+DTEND:20261210T170000Z
+SUMMARY:DDIA 2e Ch 4: Storage and Retrieval (2/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 4. Data systems foundations. Related: NLP Series word embedding
  s\; this chapter discusses vector embeddings.\nStarts page 115\; about 46
-  pages including references. Estimated 5 hours\; session 2 of 2.\nhttps:/
+  pages including references. Estimated 5 hours\; session 2 of 3.\nhttps:/
+ /www.oreilly.com/library/view/designing-data-intensive-applications/97810
+ 98119058/ch04.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch04.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch04-part03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:DDIA 2e Ch 4: Storage and Retrieval (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 4. Data systems foundations. Related: NLP Series word embedding
+ s\; this chapter discusses vector embeddings.\nStarts page 115\; about 46
+  pages including references. Estimated 5 hours\; session 3 of 3.\nhttps:/
  /www.oreilly.com/library/view/designing-data-intensive-applications/97810
  98119058/ch04.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -746,285 +732,240 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch05-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261214T160000Z
-DTEND:20261214T170000Z
-SUMMARY:DDIA 2e Ch 5: Encoding and Evolution (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261212T060000Z
+DTEND:20261212T100000Z
+SUMMARY:DDIA 2e Ch 5: Encoding and Evolution
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 5. Data systems foundations. Read the chapter and make notes.\n
  Starts page 161\; about 36 pages including references. Estimated 4 hours\
- ; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
- tensive-applications/9781098119058/ch05.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch05.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch05-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261215T150000Z
-DTEND:20261215T170000Z
-SUMMARY:DDIA 2e Ch 5: Encoding and Evolution (2/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 5. Data systems foundations. Read the chapter and make notes.\n
- Starts page 161\; about 36 pages including references. Estimated 4 hours\
- ; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
- tensive-applications/9781098119058/ch05.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch05.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch05-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261216T150000Z
-DTEND:20261216T160000Z
-SUMMARY:DDIA 2e Ch 5: Encoding and Evolution (3/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 5. Data systems foundations. Read the chapter and make notes.\n
- Starts page 161\; about 36 pages including references. Estimated 4 hours\
- ; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 1 of 1.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch05.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch05.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch06-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261216T160000Z
-DTEND:20261216T170000Z
-SUMMARY:DDIA 2e Ch 6: Replication (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261212T100000Z
+DTEND:20261212T110000Z
+SUMMARY:DDIA 2e Ch 6: Replication (1/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 6. Distributed data systems. Read the chapter and make notes.\n
  Starts page 197\; about 54 pages including references. Estimated 5.5 hour
- s\; session 1 of 4.\nhttps://www.oreilly.com/library/view/designing-data-
+ s\; session 1 of 2.\nhttps://www.oreilly.com/library/view/designing-data-
  intensive-applications/9781098119058/ch06.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch06.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch06-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261217T150000Z
-DTEND:20261217T170000Z
-SUMMARY:DDIA 2e Ch 6: Replication (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261213T060000Z
+DTEND:20261213T103000Z
+SUMMARY:DDIA 2e Ch 6: Replication (2/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 6. Distributed data systems. Read the chapter and make notes.\n
  Starts page 197\; about 54 pages including references. Estimated 5.5 hour
- s\; session 2 of 4.\nhttps://www.oreilly.com/library/view/designing-data-
- intensive-applications/9781098119058/ch06.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch06.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch06-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261218T150000Z
-DTEND:20261218T170000Z
-SUMMARY:DDIA 2e Ch 6: Replication (3/4)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 6. Distributed data systems. Read the chapter and make notes.\n
- Starts page 197\; about 54 pages including references. Estimated 5.5 hour
- s\; session 3 of 4.\nhttps://www.oreilly.com/library/view/designing-data-
- intensive-applications/9781098119058/ch06.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch06.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch06-part04@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261219T060000Z
-DTEND:20261219T063000Z
-SUMMARY:DDIA 2e Ch 6: Replication (4/4)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 6. Distributed data systems. Read the chapter and make notes.\n
- Starts page 197\; about 54 pages including references. Estimated 5.5 hour
- s\; session 4 of 4.\nhttps://www.oreilly.com/library/view/designing-data-
+ s\; session 2 of 2.\nhttps://www.oreilly.com/library/view/designing-data-
  intensive-applications/9781098119058/ch06.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch06.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch07-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261219T063000Z
-DTEND:20261219T093000Z
-SUMMARY:DDIA 2e Ch 7: Sharding
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261213T103000Z
+DTEND:20261213T110000Z
+SUMMARY:DDIA 2e Ch 7: Sharding (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 7. Distributed data systems. Read the chapter and make notes.\n
  Starts page 251\; about 26 pages including references. Estimated 3 hours\
- ; session 1 of 1.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ tensive-applications/9781098119058/ch07.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch07-part02@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261214T150000Z
+DTEND:20261214T170000Z
+SUMMARY:DDIA 2e Ch 7: Sharding (2/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 7. Distributed data systems. Read the chapter and make notes.\n
+ Starts page 251\; about 26 pages including references. Estimated 3 hours\
+ ; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ tensive-applications/9781098119058/ch07.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch07-part03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261215T150000Z
+DTEND:20261215T153000Z
+SUMMARY:DDIA 2e Ch 7: Sharding (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 7. Distributed data systems. Read the chapter and make notes.\n
+ Starts page 251\; about 26 pages including references. Estimated 3 hours\
+ ; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch07.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch07.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch08-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261219T093000Z
-DTEND:20261219T110000Z
-SUMMARY:DDIA 2e Ch 8: Transactions (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261215T153000Z
+DTEND:20261215T170000Z
+SUMMARY:DDIA 2e Ch 8: Transactions (1/4)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 8. Distributed data systems. Read the chapter and make notes.\n
  Starts page 277\; about 68 pages including references. Estimated 7 hours\
- ; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 1 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch08.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch08.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch08-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261220T060000Z
-DTEND:20261220T110000Z
-SUMMARY:DDIA 2e Ch 8: Transactions (2/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261216T150000Z
+DTEND:20261216T170000Z
+SUMMARY:DDIA 2e Ch 8: Transactions (2/4)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 8. Distributed data systems. Read the chapter and make notes.\n
  Starts page 277\; about 68 pages including references. Estimated 7 hours\
- ; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 2 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch08.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch08.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch08-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261221T150000Z
-DTEND:20261221T153000Z
-SUMMARY:DDIA 2e Ch 8: Transactions (3/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261217T150000Z
+DTEND:20261217T170000Z
+SUMMARY:DDIA 2e Ch 8: Transactions (3/4)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 8. Distributed data systems. Read the chapter and make notes.\n
  Starts page 277\; about 68 pages including references. Estimated 7 hours\
- ; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 3 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
+ tensive-applications/9781098119058/ch08.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch08.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch08-part04@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261218T150000Z
+DTEND:20261218T163000Z
+SUMMARY:DDIA 2e Ch 8: Transactions (4/4)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 8. Distributed data systems. Read the chapter and make notes.\n
+ Starts page 277\; about 68 pages including references. Estimated 7 hours\
+ ; session 4 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch08.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch08.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch09-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261221T153000Z
-DTEND:20261221T170000Z
-SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (1/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261218T163000Z
+DTEND:20261218T170000Z
+SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 9. Distributed data systems. Read the chapter and make notes.\n
  Starts page 345\; about 56 pages including references. Estimated 6 hours\
- ; session 1 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch09.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch09.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch09-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261222T150000Z
-DTEND:20261222T170000Z
-SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (2/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261219T060000Z
+DTEND:20261219T110000Z
+SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (2/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 9. Distributed data systems. Read the chapter and make notes.\n
  Starts page 345\; about 56 pages including references. Estimated 6 hours\
- ; session 2 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch09.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch09.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch09-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261223T150000Z
-DTEND:20261223T170000Z
-SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (3/4)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261220T060000Z
+DTEND:20261220T063000Z
+SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (3/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 9. Distributed data systems. Read the chapter and make notes.\n
  Starts page 345\; about 56 pages including references. Estimated 6 hours\
- ; session 3 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
- tensive-applications/9781098119058/ch09.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch09.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch09-part04@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261224T150000Z
-DTEND:20261224T153000Z
-SUMMARY:DDIA 2e Ch 9: The Trouble with Distributed Systems (4/4)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 9. Distributed data systems. Read the chapter and make notes.\n
- Starts page 345\; about 56 pages including references. Estimated 6 hours\
- ; session 4 of 4.\nhttps://www.oreilly.com/library/view/designing-data-in
+ ; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-in
  tensive-applications/9781098119058/ch09.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch09.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch10-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261224T153000Z
-DTEND:20261224T170000Z
-SUMMARY:DDIA 2e Ch 10: Consistency and Consensus (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261220T063000Z
+DTEND:20261220T110000Z
+SUMMARY:DDIA 2e Ch 10: Consistency and Consensus (1/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 10. Distributed data systems. Read the chapter and make notes.\
  nStarts page 401\; about 50 pages including references. Estimated 5 hours
- \; session 1 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
+ \; session 1 of 2.\nhttps://www.oreilly.com/library/view/designing-data-i
  ntensive-applications/9781098119058/ch10.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch10.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch10-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261225T150000Z
-DTEND:20261225T170000Z
-SUMMARY:DDIA 2e Ch 10: Consistency and Consensus (2/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261221T150000Z
+DTEND:20261221T153000Z
+SUMMARY:DDIA 2e Ch 10: Consistency and Consensus (2/2)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 10. Distributed data systems. Read the chapter and make notes.\
  nStarts page 401\; about 50 pages including references. Estimated 5 hours
- \; session 2 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
- ntensive-applications/9781098119058/ch10.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch10.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch10-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261226T060000Z
-DTEND:20261226T073000Z
-SUMMARY:DDIA 2e Ch 10: Consistency and Consensus (3/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 10. Distributed data systems. Read the chapter and make notes.\
- nStarts page 401\; about 50 pages including references. Estimated 5 hours
- \; session 3 of 3.\nhttps://www.oreilly.com/library/view/designing-data-i
+ \; session 2 of 2.\nhttps://www.oreilly.com/library/view/designing-data-i
  ntensive-applications/9781098119058/ch10.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch10.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch11-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261226T073000Z
-DTEND:20261226T110000Z
-SUMMARY:DDIA 2e Ch 11: Batch Processing (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261221T153000Z
+DTEND:20261221T170000Z
+SUMMARY:DDIA 2e Ch 11: Batch Processing (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 11. Data processing and responsible data use. Related: TensorFl
  ow 2 Series data preparation and pipelines.\nStarts page 451\; about 36 p
- ages including references. Estimated 4 hours\; session 1 of 2.\nhttps://w
+ ages including references. Estimated 4 hours\; session 1 of 3.\nhttps://w
  ww.oreilly.com/library/view/designing-data-intensive-applications/9781098
  119058/ch11.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -1032,15 +973,31 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch11-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261227T060000Z
-DTEND:20261227T063000Z
-SUMMARY:DDIA 2e Ch 11: Batch Processing (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261222T150000Z
+DTEND:20261222T170000Z
+SUMMARY:DDIA 2e Ch 11: Batch Processing (2/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 11. Data processing and responsible data use. Related: TensorFl
  ow 2 Series data preparation and pipelines.\nStarts page 451\; about 36 p
- ages including references. Estimated 4 hours\; session 2 of 2.\nhttps://w
+ ages including references. Estimated 4 hours\; session 2 of 3.\nhttps://w
+ ww.oreilly.com/library/view/designing-data-intensive-applications/9781098
+ 119058/ch11.html
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch11.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch11-part03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261223T150000Z
+DTEND:20261223T153000Z
+SUMMARY:DDIA 2e Ch 11: Batch Processing (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 11. Data processing and responsible data use. Related: TensorFl
+ ow 2 Series data preparation and pipelines.\nStarts page 451\; about 36 p
+ ages including references. Estimated 4 hours\; session 3 of 3.\nhttps://w
  ww.oreilly.com/library/view/designing-data-intensive-applications/9781098
  119058/ch11.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -1048,15 +1005,15 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch12-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261227T063000Z
-DTEND:20261227T110000Z
-SUMMARY:DDIA 2e Ch 12: Stream Processing (1/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261223T153000Z
+DTEND:20261223T170000Z
+SUMMARY:DDIA 2e Ch 12: Stream Processing (1/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 12. Data processing and responsible data use. Related: TensorFl
  ow 2 Series data pipelines.\nStarts page 487\; about 52 pages including r
- eferences. Estimated 5.5 hours\; session 1 of 2.\nhttps://www.oreilly.com
+ eferences. Estimated 5.5 hours\; session 1 of 3.\nhttps://www.oreilly.com
  /library/view/designing-data-intensive-applications/9781098119058/ch12.ht
  ml
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -1064,15 +1021,31 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch12-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261228T150000Z
-DTEND:20261228T160000Z
-SUMMARY:DDIA 2e Ch 12: Stream Processing (2/2)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261224T150000Z
+DTEND:20261224T170000Z
+SUMMARY:DDIA 2e Ch 12: Stream Processing (2/3)
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 12. Data processing and responsible data use. Related: TensorFl
  ow 2 Series data pipelines.\nStarts page 487\; about 52 pages including r
- eferences. Estimated 5.5 hours\; session 2 of 2.\nhttps://www.oreilly.com
+ eferences. Estimated 5.5 hours\; session 2 of 3.\nhttps://www.oreilly.com
+ /library/view/designing-data-intensive-applications/9781098119058/ch12.ht
+ ml
+URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
+ ions/9781098119058/ch12.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ddia-second-edition-ch12-part03@readingtopics.local
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261225T150000Z
+DTEND:20261225T170000Z
+SUMMARY:DDIA 2e Ch 12: Stream Processing (3/3)
+DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
+ , Chapter 12. Data processing and responsible data use. Related: TensorFl
+ ow 2 Series data pipelines.\nStarts page 487\; about 52 pages including r
+ eferences. Estimated 5.5 hours\; session 3 of 3.\nhttps://www.oreilly.com
  /library/view/designing-data-intensive-applications/9781098119058/ch12.ht
  ml
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
@@ -1080,55 +1053,25 @@ URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch13-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261228T160000Z
-DTEND:20261228T170000Z
-SUMMARY:DDIA 2e Ch 13: A Philosophy of Streaming Systems (1/3)
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261226T060000Z
+DTEND:20261226T110000Z
+SUMMARY:DDIA 2e Ch 13: A Philosophy of Streaming Systems
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 13. Data processing and responsible data use. Read the chapter 
  and make notes.\nStarts page 539\; about 46 pages including references. E
- stimated 5 hours\; session 1 of 3.\nhttps://www.oreilly.com/library/view/
- designing-data-intensive-applications/9781098119058/ch13.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch13.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch13-part02@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261229T150000Z
-DTEND:20261229T170000Z
-SUMMARY:DDIA 2e Ch 13: A Philosophy of Streaming Systems (2/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 13. Data processing and responsible data use. Read the chapter 
- and make notes.\nStarts page 539\; about 46 pages including references. E
- stimated 5 hours\; session 2 of 3.\nhttps://www.oreilly.com/library/view/
- designing-data-intensive-applications/9781098119058/ch13.html
-URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
- ions/9781098119058/ch13.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ddia-second-edition-ch13-part03@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261230T150000Z
-DTEND:20261230T170000Z
-SUMMARY:DDIA 2e Ch 13: A Philosophy of Streaming Systems (3/3)
-DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
- , Chapter 13. Data processing and responsible data use. Read the chapter 
- and make notes.\nStarts page 539\; about 46 pages including references. E
- stimated 5 hours\; session 3 of 3.\nhttps://www.oreilly.com/library/view/
+ stimated 5 hours\; session 1 of 1.\nhttps://www.oreilly.com/library/view/
  designing-data-intensive-applications/9781098119058/ch13.html
 URL:https://www.oreilly.com/library/view/designing-data-intensive-applicat
  ions/9781098119058/ch13.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ddia-second-edition-ch14-part01@readingtopics.local
-DTSTAMP:20261031T115017Z
-SEQUENCE:0
-DTSTART:20261231T150000Z
-DTEND:20261231T170000Z
+DTSTAMP:20261031T115133Z
+SEQUENCE:1
+DTSTART:20261227T060000Z
+DTEND:20261227T080000Z
 SUMMARY:DDIA 2e Ch 14: Doing the Right Thing
 DESCRIPTION:Designing Data-Intensive Applications\, second edition (2026)\
  , Chapter 14. Data processing and responsible data use. Related: AI Bias 
